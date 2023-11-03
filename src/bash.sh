@@ -17,3 +17,5 @@ echo "increment 5 =" x+=5
 echo $x
 echo "Multiplication *5=" $((x*=5))
 echo $x
+echo "Substration -5 =" $((x-=5))
+echo $x
