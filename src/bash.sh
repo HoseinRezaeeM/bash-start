@@ -13,3 +13,7 @@ echo "Division of x by y"
 echo $((x/y))
 echo "Exponentiation of x,y"
 echo $((x ** y))
+echo "increment 5 =" x+=5
+echo $x
+echo "Multiplication *5=" $((x*=5))
+echo $x
